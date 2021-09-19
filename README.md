@@ -15,7 +15,7 @@
 - 8 - Limpa a lista
 - 9 - Imprime a lista na tela
 
-## Features
+## Descrição
  Trabalho em desenvolvimento de uso para estudos na disciplina de estruturas de dados - UERGS 2021 com a professora Dra. Fabrícia Damando.
 
 Código escrito por: Rodrigo Britto Calovi.
