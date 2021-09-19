@@ -1,6 +1,6 @@
 //Rodrigo Britto Calovi
 //UERGS - Universidade Estadual do Rio Grande do Sul
-//Prof. Dra. Fabrícia
+//Prof. Dra. Fabrícia Damando
 //Disciplina: Estrutura de dados
 
 #include <stdio.h>
